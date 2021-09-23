@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-board-test/static/js/main.e8711912.chunk.js",
+    "main.js.map": "/react-board-test/static/js/main.e8711912.chunk.js.map",
+    "runtime-main.js": "/react-board-test/static/js/runtime-main.7345ec9f.js",
+    "runtime-main.js.map": "/react-board-test/static/js/runtime-main.7345ec9f.js.map",
+    "static/js/2.1d150bbb.chunk.js": "/react-board-test/static/js/2.1d150bbb.chunk.js",
+    "static/js/2.1d150bbb.chunk.js.map": "/react-board-test/static/js/2.1d150bbb.chunk.js.map",
+    "index.html": "/react-board-test/index.html",
+    "static/js/2.1d150bbb.chunk.js.LICENSE.txt": "/react-board-test/static/js/2.1d150bbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7345ec9f.js",
+    "static/js/2.1d150bbb.chunk.js",
+    "static/js/main.e8711912.chunk.js"
+  ]
+}
